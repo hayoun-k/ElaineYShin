@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main
   repo: hayoun-k/ElaineYShin
-  # site_domain: https://elaineyshin.pages.dev/
+  site_domain: https://elaineyshin.pages.dev/
   base_url: https://elaineyshin.pages.dev/
   # auth_endpoint: /api/auth
 
